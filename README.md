@@ -1,5 +1,6 @@
 # Neoway
- Teste de aptidão para a vaga de Analista de BI
+ 
+# Teste de aptidão para a vaga de Analista de BI
 
 ﻿Gostaria de compartilhar com vocês a abordagem realizada e os resultados do teste técnico de criação de dashboard no Power BI. Foram utilizados os dados da B3 e bases de uma amostra de empresas do Brasil para criar o dashboard com análises relevantes.
 
