@@ -37,3 +37,5 @@ A análise dos títulos negociados por porte traz informações sobre a distribu
 A variação percentual média de valores é um indicador que mede a taxa de mudança dos preços das ações ao longo do período analisado. Essa medida auxilia na compreensão das tendências de valorização ou desvalorização dos ativos, proporcionando insights sobre o desempenho histórico.
 
 Esses indicadores foram selecionados com o objetivo de fornecer uma análise abrangente do histórico dos pregões, permitindo que os usuários do dashboard compreendam melhor o comportamento e a volatilidade das ações ao longo do tempo. Eles oferecem uma visão quantitativa e significativa para auxiliar na tomada de decisões relacionadas a investimentos e estratégias no mercado financeiro.
+
+O dashboard desenvolvido utiliza como fonte de dados arquivos .CSV gerados a partir da camada ENRICH do SQL server.
